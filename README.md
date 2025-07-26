@@ -15,7 +15,7 @@ I'm an international student currently finishing my associate degree and transfe
 ---
 
 ### 🔓 Live Projects
-- [CyberJournal 📓](https://github.com/Meekish/CyberJournal)
+- [CyberJournal 📓](https://github.com/Meekish/Cyber-Journal)
 - [Simple Python Projects 🐍](https://github.com/Meekish/simple-python-projects) *(coming soon)*
 
 ---
